@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/author-fernandogatto-00875F" alt="Author">
   </a>
 
-  <img src="https://img.shields.io/github/forks/fernandogatto/adote-io-web?color=00875F" alt="Forks">
+  <img src="https://img.shields.io/github/forks/fernandogatto/ignite-pomodoro?color=00875F" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/fernandogatto/adote-io-web?color=00875F" alt="Stars">
+  <img src="https://img.shields.io/github/stars/fernandogatto/ignite-pomodoro?color=00875F" alt="Stars">
 
   <h1>Ignite Pomodoro</h1>
 </p>
