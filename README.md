@@ -37,7 +37,7 @@
 - [Styled Components](https://styled-components.com/): It is a library that allows you to write CSS in JS while building custom components in Reactjs
 - [Vite](https://vitejs.dev/): Vite is a local development server.
 
-##  Documentation <a name="documentation"/>
+## 🧠 Documentation <a name="documentation"/>
 
 ```bash
 .
@@ -50,7 +50,7 @@
 │   ├── hooks                # App hooks
 │   ├── routes               # App routes
 │   ├── pages                # App pages
-│   └── styles                # App theme and global styles
+│   └── styles               # App theme and global styles
 └── README.md
 ```
 
